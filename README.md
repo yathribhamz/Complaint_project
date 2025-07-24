@@ -9,3 +9,4 @@ The citizen is responsible for self-registration within the system. After regist
 The Regional Commissioner Officer (RCO) holds a supervisory role. Their responsibilities include registering both the Regional Secretary (RS) and the Complaint Officer (CO). Furthermore, the RCO receives complaints submitted by citizens and has the authority to forward these complaints to the appropriate RS or CO for resolution, particularly when the RCO is unable to resolve the issue personally.
 
 Once feedback is provided by the RCO, RS, or CO regarding a particular complaint, the system automatically sends that feedback to the respective citizen via SMS, using the phone number provided during registration.
+# Sample Overview of the Project
