@@ -10,3 +10,4 @@ The Regional Commissioner Officer (RCO) holds a supervisory role. Their responsi
 
 Once feedback is provided by the RCO, RS, or CO regarding a particular complaint, the system automatically sends that feedback to the respective citizen via SMS, using the phone number provided during registration.
 # Sample Overview of the Project
+![image alt](https://github.com/yathribhamz/Complaint_project/blob/fe183cde38d845030f7791ffb412874b70ce9ae1/image%20for%20user.PNG)
