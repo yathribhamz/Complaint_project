@@ -13,4 +13,5 @@ Once feedback is provided by the RCO, RS, or CO regarding a particular complaint
 that is citizen user account
 ![image alt](https://github.com/yathribhamz/Complaint_project/blob/fe183cde38d845030f7791ffb412874b70ce9ae1/image%20for%20user.PNG)
 This is an example of a complaint submitted by a citizen. For a certain period of time, its status remains marked as “Pending.”
+![image alt](https://github.com/yathribhamz/Complaint_project/blob/354daa463865c9fce4462b0a5105909d626c2945/sample2.PNG)
 
